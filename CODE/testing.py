@@ -10,7 +10,6 @@ import random
 class Testing(Scene):
 
     config.background_color = "#001B2E"
-
     PRIMARY_COLOR = "#DEB841"  # Gold
     ACCENT_COLOR = "#957FEF"  # Tropical Indigo
     NEUTRAL_COLOR = "#FFFCFF"  # Snow
@@ -18,6 +17,8 @@ class Testing(Scene):
 
 
     def construct(self):
+
+        self.add_sound("assets/sounds/fur_elise")
         # Create and add the background
 
         self.SCENE_equations()
