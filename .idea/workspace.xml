@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b0f3bde-805f-48f6-9cee-13634a91877d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CODE/animatica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE/colors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE/infinity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE/lorenz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Audiowide-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/BodoniModa.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Spectral-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUSIC/fur elise (Ludwig van Beethoven).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUSIC/ode-to-joy-beethoven-193117.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VIDEOS/LorenzAttractor.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VIDEOS/LorenzAttractor_Equations_60s.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VIDEOS/PrincipiaAnimaticaIntro.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2uZDBSkiP5yI8ziwgKa0i1WU1ll" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.lorenz-SHORT.executor": "Run",
+    "Python.scene.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/aakritigarodia/Desktop/Coding/MUSIC"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MUSIC" />
+      <recent name="$PROJECT_DIR$/Fonts" />
+      <recent name="$PROJECT_DIR$/media/videos/testing/2160p60" />
+      <recent name="$PROJECT_DIR$/my-project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/COLOR_TESTING" />
+      <recent name="$PROJECT_DIR$/VIDEOS" />
+      <recent name="$PROJECT_DIR$/Fonts" />
+      <recent name="$PROJECT_DIR$/my-project" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b0f3bde-805f-48f6-9cee-13634a91877d" name="Changes" comment="" />
+      <created>1742447066582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742447066582</updated>
+    </task>
+    <servers />
+  </component>
+</project>
