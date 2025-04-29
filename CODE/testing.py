@@ -18,8 +18,6 @@ class Testing(Scene):
 
     def construct(self):
 
-        self.add_sound("assets/sounds/fur_elise")
-        # Create and add the background
 
         self.SCENE_equations()
         self.transition(1.5, DOWN)
