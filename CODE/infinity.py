@@ -9,16 +9,19 @@ import random
 
 class Testing(Scene):
 
-    config.background_color = "#001B2E"
-
+    background_rectangle = Rectangle(
+            width=config.frame_width * 2,
+            height=config.frame_height * 2,
+            fill_color="#000033",
+            fill_opacity=1
+        )
     PRIMARY_COLOR = "#DEB841"  # Gold
     ACCENT_COLOR = "#957FEF"  # Tropical Indigo
     NEUTRAL_COLOR = "#FFFCFF"  # Snow
     QUOTE_COLOR = RED
 
-
     def construct(self):
-        # Create and add the background
+
 
         self.SCENE_equations()
         self.transition(1.5, DOWN)
@@ -28,10 +31,7 @@ class Testing(Scene):
         self.transition(1.5)
 
         self.SCENE_opening_quote()
-
-        self.interactive_embed()
-
-
+        
     def transition(self, run, moving=None):
         animations = [FadeOut(*self.mobjects, run_time=run, shift=moving)]
         self.play(*animations)
@@ -80,14 +80,14 @@ class Testing(Scene):
         author.to_edge(UP, buff=3)
 
         try:
-            with register_font("../Fonts/Spectral-SemiBoldItalic.ttf"):
+            with register_font("../assets/fonts/Spectral-SemiBoldItalic.ttf"):
                 quote_line_1.font = "Spectral-SemiBoldItalic"
                 quote_line_2.font = "Spectral-SemiBoldItalic"
         except:
             print("Warning: Spectral font not found. Using default font.")
 
         try:
-            with register_font("../Fonts/Spectral-SemiBold.ttf"):
+            with register_font("../assets/fonts/Spectral-SemiBold.ttf"):
                 author.font = "Spectral-SemiBold"
         except:
             print("Warning: Spectral font not found. Using default font.")

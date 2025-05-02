@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b0f3bde-805f-48f6-9cee-13634a91877d" name="Changes" comment="" />
+    <list default="true" id="7b0f3bde-805f-48f6-9cee-13634a91877d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CODE/hexapawn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/DavidBaker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/DemisHassabis.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/John Jumper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sounds/AntonioVivaldi_Spring.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sounds/fur-elise-beethoven-216331.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sounds/inspirational-piano-classical-royal-285358.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sounds/morning-mood-edvard-grieg-theme-piano-intro-4309.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE/animatica.py" beforeDir="false" afterPath="$PROJECT_DIR$/CODE/animatica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE/infinity.py" beforeDir="false" afterPath="$PROJECT_DIR$/CODE/infinity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/CODE/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Audiowide-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Audiowide-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/BodoniModa.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/BodoniModa.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-ExtraBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-ExtraBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-ExtraBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-ExtraBoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-ExtraLight.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-ExtraLight.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-ExtraLightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-ExtraLightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-Italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-LightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-MediumItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-SemiBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Spectral-SemiBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Spectral-SemiBoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/videos/testing/480p15/Testing.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/media/videos/testing/480p15/Testing.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/videos/testing/480p15/partial_movie_files/Testing/partial_movie_file_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/media/videos/testing/480p15/partial_movie_files/Testing/partial_movie_file_list.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,29 +62,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.lorenz-SHORT.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scene.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/aakritigarodia/Desktop/Coding/MUSIC&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.lorenz-SHORT.executor": "Run",
+    "Python.magic_squares.executor": "Run",
+    "Python.scene.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "opengl",
+    "last_opened_file_path": "/Users/aakritigarodia/Desktop/Coding/assets/sounds"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/sounds" />
       <recent name="$PROJECT_DIR$/MUSIC" />
       <recent name="$PROJECT_DIR$/Fonts" />
       <recent name="$PROJECT_DIR$/media/videos/testing/2160p60" />
       <recent name="$PROJECT_DIR$/my-project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/sounds" />
+      <recent name="$PROJECT_DIR$/assets/fonts" />
       <recent name="$PROJECT_DIR$/COLOR_TESTING" />
       <recent name="$PROJECT_DIR$/VIDEOS" />
-      <recent name="$PROJECT_DIR$/Fonts" />
-      <recent name="$PROJECT_DIR$/my-project" />
     </key>
   </component>
   <component name="SharedIndexes">

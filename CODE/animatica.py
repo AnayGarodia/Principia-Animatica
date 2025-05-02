@@ -17,8 +17,8 @@ DOT_CHORD_COLORS = [
     "#9B59B6"
 ]
 
-FONT_PATH = "../Fonts/Audiowide-Regular.ttf"
-FONT_NAME = "Audiowide"
+FONT_PATH = "../assets/fonts/NotoSans-Bold.ttf"
+FONT_NAME = "Noto Sans"
 CHANNEL_NAME = "PRINCIPIA ANIMATICA"
 
 N_POINTS = 10
@@ -98,35 +98,17 @@ def SCENE_intro(scene_self):
         with register_font(FONT_PATH):
             channel_name = Text(CHANNEL_NAME, font=FONT_NAME, font_size=70)
     except:
-        channel_name = Text(CHANNEL_NAME, font_size=55)
+        channel_name = Text(CHANNEL_NAME, font_size=70)
         print("Warning: Audiowide font not found. Using default font.")
 
     channel_name.set_color(PRIMARY_COLOR)
     channel_name.next_to(circle, DOWN, buff=0.6)
 
-    cursor = Rectangle(
-        color=NEUTRAL_COLOR,
-        fill_color=NEUTRAL_COLOR,
-        fill_opacity=1.0,
-        height=channel_name.get_height(),
-        width=0.05,
-    )
-    cursor.next_to(channel_name, LEFT, buff=0.1)
-
-    scene_self.add(channel_name, cursor)
 
     scene_self.play(
-        GrowFromCenter(circle, run_time=0.45),
-        TypeWithCursor(channel_name, cursor, run_time=0.75),
+        GrowFromCenter(circle, run_time=0.75),
+        Write(channel_name, run_time=1.75),
     )
-
-    scene_self.play(
-        Blink(cursor, blinks=2, run_time=0.25),
-        FadeOut(cursor, run_time=0.25),
-    )
-
-    scene_self.remove(cursor)
-
     points_pos = get_points_on_circle(N_POINTS, circle)
 
     dot_colors = itertools.cycle(DOT_CHORD_COLORS)
