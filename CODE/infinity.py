@@ -29,7 +29,7 @@ class Testing(Scene):
         animatica.SCENE_intro(self)
 
         self.transition(1.5)
-
+        
         self.SCENE_opening_quote()
         
     def transition(self, run, moving=None):
