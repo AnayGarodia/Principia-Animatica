@@ -8,6 +8,7 @@ from manim.utils import rate_functions
 PRIMARY_COLOR = "#F1C40F"
 ACCENT_COLOR = "#00CED1"
 NEUTRAL_COLOR = "#AAAAAA"
+TESTING=0.01
 
 DOT_CHORD_COLORS = [
     PRIMARY_COLOR,
